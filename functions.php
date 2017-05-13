@@ -1,13 +1,5 @@
 <?php
 
-<<<<<<< HEAD
-/* Just adding a comment to this file jazz spanners 
-
-*/
-=======
-// Just adding this comment as a test!
->>>>>>> 4651cc2012c799fc7ea7a28650c5f7e9f8c75402
-
 function wpt_theme_styles() {
 
 	wp_enqueue_style( 'main_css', get_template_directory_uri() . '/css/main.css' );
