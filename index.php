@@ -1,4 +1,9 @@
-<?php get_header(); ?>
+<?php get_header(); 
+
+/* This is the template file for the header section of pages */
+
+
+?>
 
 <h1>Index</h1>
 
@@ -20,4 +25,4 @@
 
 
 
-<?php get_footer(); ?>
+<?php get_footer(); klkl
