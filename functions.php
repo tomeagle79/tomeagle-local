@@ -1,5 +1,9 @@
 <?php
 
+/* Just adding a comment to this file jazz spanners 
+
+*/
+
 function wpt_theme_styles() {
 
 	wp_enqueue_style( 'main_css', get_template_directory_uri() . '/css/main.css' );
