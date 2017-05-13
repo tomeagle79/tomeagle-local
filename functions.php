@@ -1,5 +1,7 @@
 <?php
 
+// Just adding this comment as a test!
+
 function wpt_theme_styles() {
 
 	wp_enqueue_style( 'main_css', get_template_directory_uri() . '/css/main.css' );
